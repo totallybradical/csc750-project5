@@ -1,0 +1,24 @@
+BEGIN TAGENT LOG:
+T is ready to start.
+T has started.
+T received postSubmission[9aa9bdbb-5968-4b32-a55d-3b3b06df2fd2, s_9aa9bdbb-5968-4b32-a55d-3b3b06df2fd2]
+T sent new postGrade with grade = 61
+T received postSubmission[f2fbdc68-70c3-4314-a3ff-a38207a78abe, s_f2fbdc68-70c3-4314-a3ff-a38207a78abe]
+T sent new postGrade with grade = 23
+T received postSubmission[83736424-0d15-4eea-96dc-9a234ed7c169, s_83736424-0d15-4eea-96dc-9a234ed7c169]
+T sent new postGrade with grade = 54
+T received postSubmission[d08014ae-8a4e-42a1-95c0-1bc4873af9f7, s_d08014ae-8a4e-42a1-95c0-1bc4873af9f7]
+T sent new postGrade with grade = 1
+T received postSubmission[0f81683e-2171-4357-9040-8922fff5ca89, s_0f81683e-2171-4357-9040-8922fff5ca89]
+T sent new postGrade with grade = 88
+T received requestRegrade[9aa9bdbb-5968-4b32-a55d-3b3b06df2fd2, r_9aa9bdbb-5968-4b32-a55d-3b3b06df2fd2_legit_reason]
+T sent new regrade with grade (new) = 91
+T received requestRegrade[f2fbdc68-70c3-4314-a3ff-a38207a78abe, r_f2fbdc68-70c3-4314-a3ff-a38207a78abe_legit_reason]
+T sent new regrade with grade (new) = 98
+T received requestRegrade[83736424-0d15-4eea-96dc-9a234ed7c169, r_83736424-0d15-4eea-96dc-9a234ed7c169_no_reason]
+T sent new regrade with grade (old) = 54
+T received acceptGrade[d08014ae-8a4e-42a1-95c0-1bc4873af9f7, 1]
+T received requestRegrade[0f81683e-2171-4357-9040-8922fff5ca89, r_0f81683e-2171-4357-9040-8922fff5ca89_legit_reason]
+T sent new regrade with grade (new) = 64
+T is going to stop.
+T has stopped.

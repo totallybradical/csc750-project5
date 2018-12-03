@@ -1,0 +1,34 @@
+BEGIN SAGENT LOG:
+S is ready to start.
+S has started.
+S received postAssignment[9aa9bdbb-5968-4b32-a55d-3b3b06df2fd2]
+S sent new requestExtension with extensionReason = medical
+S sent new postSubmission with submission = s_9aa9bdbb-5968-4b32-a55d-3b3b06df2fd2
+S received postAssignment[f2fbdc68-70c3-4314-a3ff-a38207a78abe]
+S sent new requestExtension with extensionReason = vacation
+S sent new postSubmission with submission = s_f2fbdc68-70c3-4314-a3ff-a38207a78abe
+S received postAssignment[83736424-0d15-4eea-96dc-9a234ed7c169]
+S sent new requestExtension with extensionReason = vacation
+S sent new postSubmission with submission = s_83736424-0d15-4eea-96dc-9a234ed7c169
+S received postAssignment[d08014ae-8a4e-42a1-95c0-1bc4873af9f7]
+S sent new postSubmission with submission = s_d08014ae-8a4e-42a1-95c0-1bc4873af9f7
+S received postAssignment[0f81683e-2171-4357-9040-8922fff5ca89]
+S sent new requestExtension with extensionReason = vacation
+S sent new postSubmission with submission = s_0f81683e-2171-4357-9040-8922fff5ca89
+S received postGrade[9aa9bdbb-5968-4b32-a55d-3b3b06df2fd2, s_9aa9bdbb-5968-4b32-a55d-3b3b06df2fd2, 61]
+S sent new requestRegrade with regradeReason = r_9aa9bdbb-5968-4b32-a55d-3b3b06df2fd2_legit_reason
+S received extension[9aa9bdbb-5968-4b32-a55d-3b3b06df2fd2, approved]
+S received postGrade[f2fbdc68-70c3-4314-a3ff-a38207a78abe, s_f2fbdc68-70c3-4314-a3ff-a38207a78abe, 23]
+S sent new requestRegrade with regradeReason = r_f2fbdc68-70c3-4314-a3ff-a38207a78abe_legit_reason
+S received postGrade[83736424-0d15-4eea-96dc-9a234ed7c169, s_83736424-0d15-4eea-96dc-9a234ed7c169, 54]
+S sent new requestRegrade with regradeReason = r_83736424-0d15-4eea-96dc-9a234ed7c169_no_reason
+S received postGrade[d08014ae-8a4e-42a1-95c0-1bc4873af9f7, s_d08014ae-8a4e-42a1-95c0-1bc4873af9f7, 1]
+S sent new acceptGrade with accepted grade = 1
+S received postGrade[0f81683e-2171-4357-9040-8922fff5ca89, s_0f81683e-2171-4357-9040-8922fff5ca89, 88]
+S sent new requestRegrade with regradeReason = r_0f81683e-2171-4357-9040-8922fff5ca89_legit_reason
+S received regrade[9aa9bdbb-5968-4b32-a55d-3b3b06df2fd2, 91]
+S received regrade[f2fbdc68-70c3-4314-a3ff-a38207a78abe, 98]
+S received regrade[83736424-0d15-4eea-96dc-9a234ed7c169, 54]
+S received regrade[0f81683e-2171-4357-9040-8922fff5ca89, 64]
+S is going to stop.
+S has stopped.

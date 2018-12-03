@@ -11,7 +11,7 @@ public class Driver {
     // For simplicity all agents use the same database user account and password.
     // DO NOT FORGET TO SET THESE ACCORDING TO YOUR SETUP
     private final static String DB_USER = "root";
-    private final static String DB_PASS = "";
+    private final static String DB_PASS = "password";
     
     // All agent databases are in the local host. Otherwise update MYSQL_HOST.
     private final static String MYSQL_HOST = "127.0.0.1";

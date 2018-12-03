@@ -1,0 +1,12 @@
+BEGIN IAGENT LOG:
+I is ready to start.
+I sent postAssignment 1
+I sent postAssignment 2
+I sent postAssignment 3
+I sent postAssignment 4
+I sent postAssignment 5
+I received requestExtension[9aa9bdbb-5968-4b32-a55d-3b3b06df2fd2, medical]
+I sent extension with extension = approved]
+I received requestExtension[f2fbdc68-70c3-4314-a3ff-a38207a78abe, vacation]
+I received requestExtension[83736424-0d15-4eea-96dc-9a234ed7c169, vacation]
+I received requestExtension[0f81683e-2171-4357-9040-8922fff5ca89, vacation]
